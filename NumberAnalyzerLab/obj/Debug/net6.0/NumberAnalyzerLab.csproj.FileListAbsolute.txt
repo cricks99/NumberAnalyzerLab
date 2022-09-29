@@ -1,0 +1,15 @@
+M:\GrandCircus\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.csproj.AssemblyReference.cache
+M:\GrandCircus\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.GeneratedMSBuildEditorConfig.editorconfig
+M:\GrandCircus\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.AssemblyInfoInputs.cache
+M:\GrandCircus\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.AssemblyInfo.cs
+M:\GrandCircus\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.csproj.CoreCompileInputs.cache
+M:\GrandCircus\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\net6.0\NumberAnalyzerLab.exe
+M:\GrandCircus\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\net6.0\NumberAnalyzerLab.deps.json
+M:\GrandCircus\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\net6.0\NumberAnalyzerLab.runtimeconfig.json
+M:\GrandCircus\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\net6.0\NumberAnalyzerLab.dll
+M:\GrandCircus\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\net6.0\NumberAnalyzerLab.pdb
+M:\GrandCircus\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.dll
+M:\GrandCircus\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\refint\NumberAnalyzerLab.dll
+M:\GrandCircus\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.pdb
+M:\GrandCircus\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\NumberAnalyzerLab.genruntimeconfig.cache
+M:\GrandCircus\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\net6.0\ref\NumberAnalyzerLab.dll
